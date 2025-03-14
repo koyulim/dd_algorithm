@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e80c8633-1542-463c-bcb0-719e5d7af500)03 기초 수학
+03 기초 수학
 # 울타리 치기
 <br>
 <br>
