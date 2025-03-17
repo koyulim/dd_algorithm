@@ -17,13 +17,13 @@
 ![image](https://github.com/user-attachments/assets/9cbe4d2b-846b-445f-9fdc-d34a1bef556e)
 <br>
 
-### 예시1
-입력
-100 30
+### 예시1<br>
+입력<br>
+100 30<br>
 <br>
 
-출력
-200
+출력<br>
+200<br>
 <br>
 
 ### 예시2
