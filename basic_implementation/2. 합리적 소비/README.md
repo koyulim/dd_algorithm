@@ -4,30 +4,30 @@
 <br>
 
 # 문제
-
+![image](https://github.com/user-attachments/assets/c1ce2135-becb-4974-9164-7b0b321cc028)
 <br>
 <br>
 
 # 입력
-
+![image](https://github.com/user-attachments/assets/b5482718-3c6b-4388-a4cf-e6c485036fa8)
 <br>
 <br>
 
 # 출력
-
+![image](https://github.com/user-attachments/assets/7b2b282f-9dd0-4210-b318-c74202809900)
 <br>
 
 ### 예시1
-입력
-5
-watch 2000
-scarf 1500
-boots 4000
-coat 10000
-perfume 7000
+입력<br>
+5<br>
+watch 2000<br>
+scarf 1500<br>
+boots 4000<br>
+coat 10000<br>
+perfume 7000<br>
 <br>
 
-출력
-coat 10000
-scarf 1500
+출력<br>
+coat 10000<br>
+scarf 1500<br>
 <br>
