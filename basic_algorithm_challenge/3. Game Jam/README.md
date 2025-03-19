@@ -4,17 +4,17 @@
 <br>
 
 # 문제
-
+![image](https://github.com/user-attachments/assets/b3336de2-8a08-4e80-93b9-fb9ec0b8e087)
 <br>
 <br>
 
 # 입력
-
+![image](https://github.com/user-attachments/assets/d518b1cc-4a80-43e3-9fae-17ffd45ecc33)
 <br>
 <br>
 
 # 출력
-
+![image](https://github.com/user-attachments/assets/604b67c9-29d0-4c1d-9892-3d82fd013234)
 <br>
 
 ### 예시1
