@@ -7,6 +7,6 @@
 |---|---|---|
 | int[][] (2차원 배열) | 가능 Comparator<int[]> | Arrays.sort(int[][], Comparator<int[]>) |
 | Integer[] (객체 배열) | 가능 (Comparator<Integer>) | Arrays.sort(Integer[], Comparator<Integer>) |
-| int[]` (기본 타입 배열) | 불가능 | Integer[]로 변환 |
+| int[] (기본 타입 배열) | 불가능 | Integer[]로 변환 |
 
-따라서, 기본 타입 배열(int[])는 오름차순 정렬만 가능하고고 Comparator 사용 할 시 Integer[]로 변환해야함
+따라서, 기본 타입 배열(int[])는 오름차순 정렬만 가능하고 Comparator 사용 할 시 Integer[]로 변환해야함
