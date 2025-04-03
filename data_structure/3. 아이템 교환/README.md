@@ -4,12 +4,15 @@
 <br>
 
 # 문제
+![image](https://github.com/user-attachments/assets/5a9a7f26-a558-4abc-8ecf-45b3785729a3)  
 <br>
 
 # 입력
+![image](https://github.com/user-attachments/assets/6d25f0ec-ec60-4dfb-84c8-c6feb8a48f1c)  
 <br>
 
 # 출력
+![image](https://github.com/user-attachments/assets/ab6fcd04-9475-4d80-84a2-524707b6dd15)  
 <br>
 
 ### 예시1
