@@ -30,7 +30,7 @@ ca c
 ab b c e  
 <br>
 
-### 예시1
+### 예시2
 입력  
 8 16  
 kvs kss ozi co vmsr jb uaeqj qnhd  
