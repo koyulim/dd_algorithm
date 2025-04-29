@@ -22,11 +22,11 @@ public class Main {
             for (int j = 0; j < m; j++) {
                 for (int z = 1; z <= 6; z++) {
                     // 위쪽 이동 경우
-                    if (i - z >= 0 && list[i][j] != true) {
+                    if (i - z >= 0 && !list[i][j]) {
                         dp[i][j] = (dp[i][j] + dp[i - z][j]) % 1000000007;
                     }
                     // 왼쪽 이동 경우
-                    if (j - z >= 0 && list[i][j] != true) {
+                    if (j - z >= 0 && !list[i][j]) {
                         dp[i][j] = (dp[i][j] + dp[i][j - z]) % 1000000007;
                     }
                 }
