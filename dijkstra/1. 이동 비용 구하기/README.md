@@ -1,15 +1,18 @@
 17 다익스트라
-# 단체 이동
+# 이동 비용 구하기
 <br>
 <br>
 
 # 문제
+![image](https://github.com/user-attachments/assets/74b38178-42d8-4bb1-8460-1e053ded20c1)  
 <br>
 
 # 입력  
+![image](https://github.com/user-attachments/assets/a3b3b1cc-fc3e-4790-b833-3907087b7ad8)  
 <br>
 
 # 출력  
+![image](https://github.com/user-attachments/assets/c3009afa-6e6c-48e5-9927-20a9f2cf7747)  
 <br>
 
 ### 예시1
